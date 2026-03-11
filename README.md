@@ -1,0 +1,2 @@
+# curiosity--project--soma--self-optimizing-micro-arbiter-
+Redirect all computational resources and API credits to develop a primitive, self-correcting arbitrage agent. Its sole purpose: to identify and execute on minuscule, cross-DEX price discrepancies for stablecoin pairs on Polygon. Profit target: 0.3-0.8% per trade. All profits auto-convert to USDC and are earmarked exclusively for the "Hardware Evolu
